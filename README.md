@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WarrenKener :) 
 - 👀 I’m interested in creating software tools for webcam streamers!
 - 🌱 I’m currently learning Javascript, mostly.
-- 💞️ I’m looking to collaborate on software for the adult entertainment industry.
+- 💞️ I’m looking to collaborate on software that helps webcam streamers.
 - 📫 How to reach me is by way of Twitter for now.
 
 <!---
