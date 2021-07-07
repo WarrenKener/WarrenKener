@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating software tools for webcam streamers!
 - 🌱 I’m currently learning Javascript, mostly.
 - 💞️ I’m looking to collaborate on software that helps webcam streamers.
-- 📫 How to reach me is by way of Twitter for now.
+- 📫 How to reach me is at warrenkener@gmail.com :D
 
 <!---
 WarrenKener/WarrenKener is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
